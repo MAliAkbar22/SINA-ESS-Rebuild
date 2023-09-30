@@ -4,8 +4,8 @@ SINA Health, Education & Welfare Trust Employee Portal Front End Rebuild
 
 ## Authors
 
-- [@Muhammad Ali Akbar](https://www.github.com/MAliAkbar22)
+- [@Muhammad Ali Akbar](https://www.github.com/maakbarofficial)
 
 ## 🔗 LIVE Link
 
-[Click Here To See Live](https://sina-ess.netlify.app/)
+[Click Here To See Live](https://maakbarofficial.github.io/SINA-ESS-Rebuild/)
